@@ -1,2 +1,2 @@
 # VBA
-VBA macros created to help out with some daily tasks
+VBA macros for Excel created to help out with some daily tasks
